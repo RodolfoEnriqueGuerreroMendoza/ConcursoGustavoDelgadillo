@@ -34,7 +34,7 @@ export default function Footer() {
             <div style={{ fontFamily: "var(--font-display)", fontSize: "0.62rem", letterSpacing: "0.25em", textTransform: "uppercase", color: "var(--laser-magenta)", marginBottom: "1.25rem", fontWeight: 700 }}>Contacto</div>
             <ul style={{ listStyle: "none", display: "flex", flexDirection: "column", gap: "0.75rem" }}>
               {[
-                ["WhatsApp", "+52 55 1234 5678",                   "var(--laser-green)"],
+                ["WhatsApp", "+52 56 3062 6476",                   "var(--laser-green)"],
                 ["Email",    "contacto@GustavoDelgadillo.com",      "var(--laser-cyan)"],
                 ["Ciudad",   "CDMX, México",                        "var(--laser-magenta)"],
               ].map(([label, value, col]) => (

@@ -67,7 +67,7 @@ export default function ContactForm() {
 
             <div style={{ marginTop: "2.5rem", display: "flex", flexDirection: "column", gap: "1rem" }}>
               {[
-                { label: "WhatsApp", value: "+52 55 1234 5678" },
+                { label: "WhatsApp", value: "+52 56 3062 6476" },
                 { label: "Correo",   value: "contacto@GustavoDelgadillo.com" },
                 { label: "Instagram", value: "@gdl.eventos" },
               ].map((item) => (
